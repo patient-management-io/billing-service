@@ -7,3 +7,7 @@ server:
 grpc:
   server:
     port: 9001
+
+logging:
+  level:
+    root: info
